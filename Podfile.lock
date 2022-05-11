@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.6.0)
+  - Connectivity (5.0.0)
+  - Realm (10.25.1):
+    - Realm/Headers (= 10.25.1)
+  - Realm/Headers (10.25.1)
+  - RealmSwift (10.25.1):
+    - Realm (= 10.25.1)
+  - SwiftyJSON (5.0.1)
+  - YoutubeKit (0.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Connectivity
+  - RealmSwift
+  - SwiftyJSON
+  - YoutubeKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Connectivity
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - YoutubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: 0c07058209f211e3d32824f8e0766d7c44ac83b3
+  Connectivity: e990703fb8d8db54649ea05facac92000cc0f3eb
+  Realm: 1a6e9b4f6983711655d8c0bcb6d2d29c3afbb1f3
+  RealmSwift: e72669550d27082aa4fad5d176f5076cfe806245
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  YoutubeKit: 9f66eba839211158f2aac7ad3833593bd56fa8f9
+
+PODFILE CHECKSUM: 045ba7cd6bb80df204cf1e8b2f1504efed1a955f
+
+COCOAPODS: 1.11.3
